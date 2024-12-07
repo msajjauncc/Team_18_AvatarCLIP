@@ -5,6 +5,10 @@ AvatarCLIP is a multimodal AI framework designed to generate avatars based on te
 
 ---
 
+<h4 align="center">
+  <a href="https://colab.research.google.com/drive/1js37DAVus060jlSfWE2hYcDs_HOPhrkI?usp=sharing#scrollTo=AWs9vh1FJzXP" target='_blank'>[Colab Demo]</a>
+</h4>
+
 ## Prerequisites Required
 
 1. **Local Environment:**
